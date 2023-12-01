@@ -1,6 +1,6 @@
 # Plataforma para blog
 
-[tutorial]()
+- [Tutorial em texto]()
 
 ## Ingredientes
 
