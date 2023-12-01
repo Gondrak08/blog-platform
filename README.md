@@ -1,6 +1,6 @@
 # Plataforma para blog
 
-- [Tutorial em texto]()
+- [Tutorial em texto](https://dev.to/vitoralecrim/construindo-um-painel-de-blog-dinamico-com-nextjs-1fa4)
 
 ## Ingredientes
 
